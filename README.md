@@ -9,4 +9,4 @@ I love building user-centered, accessible products with web-technologies, prefer
 - 📫 How to reach me: [X](https://x.com/TimPulvr) / [timpulver.com/contact](https://www.timpulver.com/contact)
 - 😄 Pronouns: he / him
 
-If like are into Arduino / physical prototyping check out my book [Hands on Internet of Things With MQTT (Packt Publishing)](https://www.packtpub.com/en-de/product/hands-on-internet-of-things-with-mqtt-9781789341782)
+If you are into Arduino / physical prototyping check out my book [Hands on Internet of Things With MQTT (Packt Publishing)](https://www.packtpub.com/en-de/product/hands-on-internet-of-things-with-mqtt-9781789341782)
